@@ -640,10 +640,6 @@ section {
 # Certificate Details
 --------------------------------------------------------------*/
 
-#certifications a {
-  color: black;
-}
-
 #certifications h3 {
   font-weight: bold;
 }
@@ -652,9 +648,6 @@ section {
 # projects Details
 --------------------------------------------------------------*/
 
-#projects a {
-  color: black;
-}
 
 #projects h3 {
   font-weight: bold;
