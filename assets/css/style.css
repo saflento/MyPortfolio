@@ -653,6 +653,10 @@ section {
   font-weight: bold;
 }
 
+.btn-spacing {
+  margin-right: 10px;
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Details
